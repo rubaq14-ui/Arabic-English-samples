@@ -17,14 +17,18 @@ Professional Arabic–English translator with 10+ years of experience in legal, 
 - Specialized Training Materials (Hairdressing & Beauty)
 
 ## 🔹 Portfolio
-You can view my full portfolio here:
-[Download Portfolio PDF]
 
-## 🔹 Sample Projects
-- Legal Translation – Affidavit
-- Humanitarian Translation – Refugee Assistance Guide
-- Website Localization – Business Homepage
-- Hairdressing Curriculum Translation
+📄 Full Portfolio:
+[Download Portfolio PDF](your-link)
+
+## 🔹 Translation Samples
+
+- ⚖️ Legal Translation – Affidavit  
+- 🌍 Humanitarian Translation – Refugee Assistance Guide  
+- 🌐 Website Localization – Business Homepage  
+- 💇‍♀️ Hairdressing Curriculum Translation  
+
+👉 View all samples in this repository
 
 ## 🔹 Tools & Skills
 CAT Tools | MTPE | Localization | Proofreading | Editing
