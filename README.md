@@ -19,7 +19,7 @@ Professional Arabic–English translator with 10+ years of experience in legal, 
 ## 🔹 Portfolio
 
 📄 Full Portfolio:
-[Download Portfolio PDF](your-link)
+[Download Portfolio PDF](https://github.com/rubaq14-ui/Arabic-English-samples/blob/main/Ruba_Premium_Portfolio.pdf)
 
 ## 🔹 Translation Samples
 
