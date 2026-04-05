@@ -1,3 +1,8 @@
+## 🌍 Arabic–English Translation Portfolio
+✔️ 10+ Years Experience  
+✔️ Legal & NGO Specialist  
+✔️ High-Quality, Human Translation  
+
 # Ruba Abdullah | Arabic–English Translator
 
 Welcome to my professional translation portfolio.
