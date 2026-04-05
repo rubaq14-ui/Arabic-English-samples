@@ -19,16 +19,17 @@ Professional Arabic–English translator with 10+ years of experience in legal, 
 ## 🔹 Portfolio
 
 📄 Full Portfolio:
-[Download Portfolio PDF](https://github.com/rubaq14-ui/Arabic-English-samples/blob/main/Ruba_Premium_Portfolio.pdf)
+[Download Portfolio PDF](https://github.com/rubaq14-ui/Arabic-English-samples/blob/main/Ruba%20Translation%20Portfolio.pdf)
 
 ## 🔹 Translation Samples
+
+👉 View more samples in this repository
 
 - ⚖️ Legal Translation – Affidavit  
 - 🌍 Humanitarian Translation – Refugee Assistance Guide  
 - 🌐 Website Localization – Business Homepage  
 - 💇‍♀️ Hairdressing Curriculum Translation  
 
-👉 View all samples in this repository
 
 ## 🔹 Tools & Skills
 CAT Tools | MTPE | Localization | Proofreading | Editing
